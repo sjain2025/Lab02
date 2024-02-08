@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab02</string>
+    <string name="type_here">Type here!</string>
+    <string name="text">Empty Text</string>
+    <string name="change_text">Change text</string>
+    <string name="planet_text">Mercury</string>
+    <string name="change_planet">Change planet</string>
+    <string-array name="messages" />
+    <string-array name="planets">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+</resources>
